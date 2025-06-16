@@ -1,0 +1,25 @@
+{
+  "name": "Go",
+  "image": "mcr.microsoft.com/devcontainers/go:1-1.24-bookworm",
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "editor.formatOnSave": true,
+        "editor.formatOnPaste": true,
+        "go.formatTool": "goimports",
+        "go.useLanguageServer": true
+      },
+      "extensions": [
+        "usernamehw.errorlens",
+        "mhutchie.git-graph",
+        "eamodio.gitlens",
+        "streetsidesoftware.code-spell-checker",
+        "naumovs.color-highlight",
+        "GitHub.vscode-pull-request-github",
+        "golang.go",
+        "premparihar.gotest",
+        "yzhang.markdown-all-in-one"
+      ]
+    }
+  }
+}

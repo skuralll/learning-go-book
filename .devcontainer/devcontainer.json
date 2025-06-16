@@ -18,7 +18,8 @@
         "GitHub.vscode-pull-request-github",
         "golang.go",
         "premparihar.gotest",
-        "yzhang.markdown-all-in-one"
+        "yzhang.markdown-all-in-one",
+        "formulahendry.code-runner"
       ]
     }
   }
